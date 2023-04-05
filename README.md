@@ -1,4 +1,4 @@
-# PuppyBowlVanillaSolution
+# Puppy Bowl Vanilla Solution
 
 To view the Puppy Bowl Solution, follow these steps!
 
